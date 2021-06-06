@@ -1,4 +1,4 @@
-package com.frye.trading.pojo.dto.model;
+package com.frye.trading.pojo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
