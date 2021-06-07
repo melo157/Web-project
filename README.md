@@ -8,8 +8,6 @@
 
 ## 技术总览
 
-运行系统：Ubuntu 18.04
-
 运行环境：Java + Tomcat + Mysql
 
 开发环境：Springboot5 + shiro + thymeleaf + mybatis
